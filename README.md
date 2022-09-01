@@ -1,4 +1,4 @@
-# devOps-class
+#How to push projects/files onto GitHub Repository using GitBash terminal
 A quick step on how to push files/upload your projects on Github using Gitbash terminal. Now let's get started :
 Log into your Github account, click on profile dropdown and select repository.
 Once in your repository, click the NEW button to create a new repository.
